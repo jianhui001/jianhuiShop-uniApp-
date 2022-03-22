@@ -1,0 +1,23 @@
+{
+  "name": "jianhui-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jianhui001/jianhuiShop-uniApp-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jianhui001/jianhuiShop-uniApp-/issues"
+  },
+  "homepage": "https://github.com/jianhui001/jianhuiShop-uniApp-#readme",
+  "dependencies": {
+    "@escook/request-miniprogram": "^0.2.1"
+  }
+}
